@@ -231,3 +231,6 @@ This repository serves as the official landing page for XNA Framework. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of XNA Framework today!**
+
+---
+**Last updated:** 2026-09-11 17:27:26 UTC
